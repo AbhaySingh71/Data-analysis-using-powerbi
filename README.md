@@ -47,6 +47,10 @@
         <h3>Learning</h3>
         <p>Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.</p>
     </div>
+    <div class="section">
+        <h3>Skills</h3>
+        <p>Data Analysis, Time Series Analysis, Data Visualization, Dashboard Creation, KPI Identification, Sales Forecasting, Excel, Power BI</p>
+    </div>
 </div>
 
 <div class="project">
@@ -72,6 +76,10 @@
         <p>Used complex parameters to drill down in the worksheet and customization using filters and slicers.</p>
         <p>Created new columns, new measures, and calculations to manipulate data and enable user-driven parameters for visualizations.</p>
         <p>Used different types of customized visualizations (cards, donut chart, stacked column chart, matrix chart, stacked bar chart, area chart, tree map, slicer, etc.).</p>
+    </div>
+    <div class="section">
+        <h3>Skills</h3>
+        <p>Data Cleaning, Data Processing, Data Analysis, Dashboard Creation, Interactive Visualization, Parameter Customization, Power BI, HR Analytics</p>
     </div>
 </div>
 
