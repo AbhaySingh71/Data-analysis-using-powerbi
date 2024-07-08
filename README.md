@@ -2,27 +2,7 @@
 <html>
 <head>
     <title>Power BI Projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        .project {
-            margin-bottom: 40px;
-        }
-        .project h2 {
-            color: #2E86C1;
-        }
-        .project h3 {
-            color: #1B4F72;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section p {
-            margin: 5px 0;
-        }
-    </style>
+
 </head>
 <body>
 
