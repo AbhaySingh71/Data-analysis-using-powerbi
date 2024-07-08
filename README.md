@@ -2,12 +2,21 @@
 <html>
 <head>
     Power BI Projects
-   
+
+       
 </head>
 <body>
 
-<div class="project">
-    <h2>HR Analytics Dashboard</h2>
+<div class="links">
+    <h2>Power BI Projects</h2>
+    <ol>
+        <li><a href="#project1">HR Analytics Dashboard</a></li>
+        <li><a href="#project2">Super Store Sales Dashboard</a></li>
+    </ol>
+</div>
+
+<div id="project1" class="project">
+    <h2>1. HR Analytics Dashboard</h2>
     <div class="section">
         <h3>Introduction</h3>
         <p>Hi Everyone, Here is my first hands-on project on Power BI: HR Analytics Dashboard. Through this project, I have learnt a lot of things like data cleaning, processing, analysis, and dashboard creation.</p>
@@ -36,8 +45,8 @@
     </div>
 </div>
 
-<div class="project">
-    <h2>Super Store Sales Dashboard</h2>
+<div id="project2" class="project">
+    <h2>2. Super Store Sales Dashboard</h2>
     <div class="section">
         <h3>Introduction</h3>
         <p>Hi, Everyone! I'm going to show my another Power BI project which is Super Store Sales Dashboard. We are using 2 years of data for sales dashboard and analysis. In this project, I used data analysis & data visualization tool Excel. The description of the analysis I have done in this project is given below. Tell me how you like my dashboard.</p>
