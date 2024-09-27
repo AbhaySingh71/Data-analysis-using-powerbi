@@ -1,5 +1,5 @@
 
-# Movie Rental Store Analytics Capstone
+# Movie Rental Store Analytics
 
 ![Screenshot 2024-04-06 105628](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/c1ae307e-2a62-466d-9f3c-33ed614eb8fc)
 
@@ -64,10 +64,10 @@ Explore the insights gained from this project in detail:
 
 ## Repository Actions
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
-[![Pull](https://img.shields.io/badge/Pull-From%20Repository-gold?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/pull)
-[![Push](https://img.shields.io/badge/Push-To%20Repository-brown?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/push)
-[![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/issues)
+[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen?style=flat-square&logo=git)](https://github.com/AbhaySingh71/Data-analysis-using-powerbi/tree/main/Movie%20Rental%20Store%20Analysis.git)
+[![Pull](https://img.shields.io/badge/Pull-From%20Repository-gold?style=flat-square&logo=git)](https://github.com/AbhaySingh71/Data-analysis-using-powerbi/pull)
+[![Push](https://img.shields.io/badge/Push-To%20Repository-brown?style=flat-square&logo=git)](https://github.com/AbhaySingh71/Data-analysis-using-powerbi/push)
+[![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/AbhaySingh71/Data-analysis-using-powerbi/issues)
 
 
 ---
@@ -76,19 +76,15 @@ Explore the insights gained from this project in detail:
 
 Let's connect on LinkedIn for further discussions and collaborations:
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/abhay-singh-050a5b293/)**
 
 
 ---
 
 ## Conclusion
 
-The Movie Rental Analytics capstone project endeavors to deliver actionable insights that empower rental store owners to make informed decisions and drive business growth. We invite you to explore the repository, engage in discussions, and join hands in our journey towards data-driven excellence.
+The Movie Rental Analytics project endeavors to deliver actionable insights that empower rental store owners to make informed decisions and drive business growth. We invite you to explore the repository, engage in discussions, and join hands in our journey towards data-driven excellence.
 
 ---
-
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
